@@ -1,0 +1,12 @@
+#nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    padding: 25px;
+}
